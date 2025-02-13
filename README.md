@@ -1,3 +1,6 @@
+Eleve1 = 'Marco CHIARENZA'
+Eleve2 = 'Robin PASCHINI'
+Eleve3 = 'Milo Hugonenq'
 # CasPratique : *Versioning avec Git et GitHub*
 
 ### Modalités
